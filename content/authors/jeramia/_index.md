@@ -63,11 +63,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jeramia Ory is an Associate Professor of Biochemistry at the St. Louis College of Pharmacy. He teaches Molecular Biology and Genetics in the PharmD program and Genetics in the School of Arts and Sciences. His research interests include the role of metal ions in fungal pathogenesis, fungal response to high levels of metal in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to his teaching and research duties, Dr. Ory is also the Undergraduate Health Professions Advisor, where he advises students interested in various health care fields. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program) he helps develop and co-facilitate experiences for the Social Awareness and Cultural Sensitivity PharmD co-curriculum. He is committed to teaching, learning and dismantling systemic racism and oppresion in our society.
