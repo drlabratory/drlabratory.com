@@ -1,40 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jeramia Ory
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jeramia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Biochemistry
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: St. Louis College of Pharmacy
+  url: "https://stlcop.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on how fungi deal with toxic levels of metal in soil.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fungi
+- Bioinformatics / Genomics
+- Data Analytics
+- Social Justice / Anti-Racism
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biochemistry
+    institution: University of Minnesota
+    year: 1998
+  - course: BS in Biochemistry 
+    institution: University of Nebraska
     year: 2008
 
 # Social/Academic Networking
@@ -47,18 +45,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DrLabRatOry
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=RBkzWd0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/drlabratory
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
