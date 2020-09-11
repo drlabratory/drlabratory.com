@@ -27,7 +27,7 @@ subtitle = ""
   description = "50%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "50%"  
