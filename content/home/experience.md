@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 * Research advisor, junior through Professional Year 4 students. 
-* Classes taught:
+* Classes taught  
+
   - Biochemistry
   - Molecular Biology and Genetics (PharmD Program)
   - Genetics
@@ -45,7 +46,8 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
 * Research advisor, freshman through senior students
-* Classes taught
+* Classes taught  
+
   - Genetics
   - Biochemistry
   - Cell and Molecular Biology
