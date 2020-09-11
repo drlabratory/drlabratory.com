@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-chalkboard-teacher"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
   description = "90%"
@@ -27,7 +27,7 @@ subtitle = ""
   description = "50%"
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "50%"  
