@@ -33,13 +33,13 @@ subtitle = ""
   description = "50%"  
 
 [[feature]]
-  icon = "fa-cookie-bite"
+  icon = "cookie-bite"
   icon_pack = "fas"
   name = "Cooking"
   description = "90%"  
   
 [[feature]]
-  icon = "fa-tools"
+  icon = "tools"
   icon_pack = "fas"
   name = "Woodworking"
   description = "40%"
