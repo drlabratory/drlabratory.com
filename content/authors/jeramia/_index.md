@@ -14,8 +14,10 @@ role: Associate Professor of Biochemistry
 
 # Organizations/Affiliations
 organizations:
-- name: St. Louis College of Pharmacy
-  url: "https://stlcop.edu"
+- name: University of Health Sciences and Pharmacy in St. Louis
+  url: "https://www.uhsp.edu"
+- name: NCCJ St. Louis
+  url: "https://www.nccjstl.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on how fungi deal with toxic levels of metal in soil.
@@ -70,4 +72,4 @@ email: ""
 
 Jeramia Ory is an Associate Professor of Biochemistry at the St. Louis College of Pharmacy. He teaches Molecular Biology and Genetics in the PharmD program and Genetics in the School of Arts and Sciences. His research interests include the role of metal ions in fungal pathogenesis, fungal response to high levels of metal in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
 
-In addition to his teaching and research duties, Dr. Ory is also the Undergraduate Health Professions Advisor, where he advises students interested in various health care fields. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program) he helps develop and co-facilitate experiences for the Social Awareness and Cultural Sensitivity PharmD co-curriculum. He is committed to teaching, learning and dismantling systemic racism and oppresion in our society.
+In addition to his teaching and research duties, Dr. Ory is also the Undergraduate Health Professions Advisor, where he advises students interested in various health care fields. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program) he helps develop and co-facilitate experiences for the Social Awareness and Cultural Sensitivity PharmD co-curriculum. He is committed to teaching, learning and dismantling all forms of systemic oppresion in our society.
