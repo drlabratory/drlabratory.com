@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrLabRatOry
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/jeramia
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RBkzWd0AAAAJ&hl=en
@@ -70,6 +73,6 @@ email: ""
 # - Visitors
 ---
 
-Jeramia Ory is an Associate Professor of Biochemistry at the St. Louis College of Pharmacy. He teaches Molecular Biology and Genetics in the PharmD program and Genetics in the School of Arts and Sciences. His research interests include the role of metal ions in fungal pathogenesis, fungal response to high levels of metal in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
+Jeramia Ory is an Associate Professor of Biochemistry at the University of Health Sciences and Pharmacy in St. Louis. He teaches Molecular Biology and Genetics in the PharmD program and Genetics in the School of Arts and Sciences. His research interests include the role of metal ions in fungal pathogenesis, fungal response to high levels of metal in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
 
 In addition to his teaching and research duties, Dr. Ory is also the Undergraduate Health Professions Advisor, where he advises students interested in various health care fields. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program) he helps develop and co-facilitate experiences for the Social Awareness and Cultural Sensitivity PharmD co-curriculum. He is committed to teaching, learning and dismantling all forms of systemic oppresion in our society.
