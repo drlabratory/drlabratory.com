@@ -32,10 +32,8 @@ education:
   courses:
   - course: PhD in Biochemistry
     institution: University of Minnesota
-    year: 1998
   - course: BS in Biochemistry 
     institution: University of Nebraska
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
