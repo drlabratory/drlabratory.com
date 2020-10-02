@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
 * Research advisor, junior through Professional Year 4 students. 
 * Classes taught  
-
+  - 
   - Biochemistry
   - Molecular Biology and Genetics (PharmD Program)
   - Genetics
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   description = """
 * Research advisor, freshman through senior students
 * Classes taught  
-
+  - 
   - Genetics
   - Biochemistry
   - Cell and Molecular Biology
@@ -58,4 +58,33 @@ date_format = "Jan 2006"
 * Chair, Academic and Professional Affairs Committee
 """
 
+[[experience]]
+  title = "Biochemical Information Specialist"
+  company = "Rutger's University"
+  company_url = "https://www.rcsb.org/"
+  location = "Piscataway, NJ"
+  date_start = "2004-12-01"
+  date_end = "2006-08-01"
+  description = """
+* Standardize the chemical information content of the PDB ligand database using a combination of commercially available libraries and open source tools.
+* Annotation of submitted macromolecular structures
+* Assurance of proper data structure
+* Author correspondence.
+"""
+
+[[experience]]
+  title = "Postdoctoral Research Associate"
+  company = "Washington University School of Medicine"
+  company_url = "https://medicine.wustl.edu/"
+  location = "St. Louis, MO"
+  date_start = "1998-09-01"
+  date_end = "2004-10-01"
+  description = """
+* Characterized a novel copper sensing and transport system in the pathogenic fungus *Cryptococcus neoformans*. 
+* Supervised the construction of molecular tools utilizing this system as an inducible promoter. 
+* Developed purification protocols, characterized and crystallized nucleotide sugar processing enzymes from the same organism.
+* As a member of a structural genomics team, purified and crystallized protein complexes associated with Helicobacter pylori pathogenicity islands.
+* Using NMR spectroscopy, designed millisecond timescale experiments (TROSY- CPMG) to study the dynamics of intestinal fatty acid binding protein mutants found in the human population. 
+* Established automatic scripts to streamline high volume data processing.
+"""
 +++
