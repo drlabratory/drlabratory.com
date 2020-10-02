@@ -26,13 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 * Research advisor, junior through Professional Year 4 students. 
-* Classes taught  
-  - 
-  - Biochemistry
-  - Molecular Biology and Genetics (PharmD Program)
-  - Genetics
-  - Introduction to Data Science
-  - Introductory Chemistry
+* Classes taught: Biochemistry, Molecular Biology and Genetics (PharmD Program), Genetics, Introduction to Data Science, Introductory Chemistry
 * Undergraduate Health Professions Advisor
 * Chair, Undergraduate Admissions and Progressions
 """
@@ -46,14 +40,7 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
 * Research advisor, freshman through senior students
-* Classes taught  
-  - 
-  - Genetics
-  - Biochemistry
-  - Cell and Molecular Biology
-  - Junior Research Seminar
-  - Bioinorganic Chemistry
-  - Human Genetics (Physician Assistant Program)
+* Classes taught: Genetics, Biochemistry, Cell and Molecular Biology, Junior Research Seminar, Bioinorganic Chemistry, Human Genetics (Physician Assistant Program)
 * Health Professions Advisor
 * Chair, Academic and Professional Affairs Committee
 """
