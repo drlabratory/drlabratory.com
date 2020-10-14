@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = """
 * Research advisor, junior through Professional Year 4 students. 
 * Classes taught  
+  
   - Biochemistry
   - Molecular Biology and Genetics (PharmD Program)
   - Genetics
