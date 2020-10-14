@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 * Successfully completed the [Facilitrainer Certification Program](https://www.nccjstl.org/ftcp)
 * Co-designed and delivered the professional Social Awareness and Cultural Sensitivity co-curriculum at the University of Health Sciences and Pharmacy in St. Louis
 * Facilitated conversations about race as part of DAP's [Listen, Talk, Learn](https://dapinclusive.org/listen-talk-learn/) series
-* Co-designed and delivered "Building Inclusive Campuses," a 3-day workshop  about social identity and oppression for St. Louis Community College board members, adminstration, faculty and staff
+* Co-designed and delivered a 3-day workshop about social identities and systems of oppression called "Building Inclusive Campuses" for St. Louis Community College board members, adminstration, faculty and staff
 """
 
 [[experience]]
