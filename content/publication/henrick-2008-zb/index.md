@@ -2,7 +2,7 @@
 title: Remediation of the protein data bank archive
 date: '2008-01-01'
 draft: true
-publishDate: '2020-10-15T16:27:09.585339Z'
+publishDate: '2020-10-15T16:27:08.377266Z'
 authors:
 - Kim Henrick
 - Zukang Feng
@@ -21,7 +21,7 @@ authors:
 - Yukiko Shimizu
 - Jawahar Swaminathan
 - Sameer Velankar
-- Jeramia J Ory
+- Jeramia Ory
 - Eldon L Ulrich
 - Wim Vranken
 - John Westbrook

@@ -4,7 +4,7 @@ title: 'Biochemical characterization of protein complexes from the Helicobacter 
   interactions within type IV secretion systems'
 date: '2004-08-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.894856Z'
+publishDate: '2020-10-15T16:27:09.668885Z'
 authors:
 - Laurent Terradot
 - Nathan Durnell

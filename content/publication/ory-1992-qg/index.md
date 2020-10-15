@@ -2,7 +2,7 @@
 title: Physiological consequences of DnaK and DnaJ overproduction in Escherichia coli
 date: '1992-11-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.402203Z'
+publishDate: '2020-10-15T16:27:09.156242Z'
 authors:
 - J Ory
 - P Blum

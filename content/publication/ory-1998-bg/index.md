@@ -3,7 +3,7 @@ title: Structural characterization of two synthetic catalysts based on adipocyte
   protein
 date: '1998-04-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.173161Z'
+publishDate: '2020-10-15T16:27:08.924886Z'
 authors:
 - J J Ory
 - A Mazhary

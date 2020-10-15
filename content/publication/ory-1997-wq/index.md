@@ -3,7 +3,7 @@ title: Biochemical and crystallographic analyses of a portal mutant of the adipo
   lipid-binding protein
 date: '1997-04-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.726542Z'
+publishDate: '2020-10-15T16:27:09.492827Z'
 authors:
 - J Ory
 - C Kane

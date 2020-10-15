@@ -3,7 +3,7 @@ title: Studies of the ligand binding reaction of adipocyte lipid binding protein
   the fluorescent probe 1, 8-anilinonaphthalene-8-sulfonate
 date: '1999-08-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.979691Z'
+publishDate: '2020-10-15T16:27:09.751397Z'
 authors:
 - J J Ory
 - L J Banaszak

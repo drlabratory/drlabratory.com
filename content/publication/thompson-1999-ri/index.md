@@ -3,7 +3,7 @@ title: The liver fatty acid binding protein--comparison of cavity properties of 
   lipid-binding proteins
 date: '1999-02-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.248755Z'
+publishDate: '2020-10-15T16:27:09.005060Z'
 authors:
 - J Thompson
 - J Ory

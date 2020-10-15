@@ -3,7 +3,7 @@ title: Biosynthesis of UDP-GlcA, a key metabolite for capsular polysaccharide sy
   in the pathogenic fungus Cryptococcus neoformans
 date: '2004-07-01'
 draft: true
-publishDate: '2020-10-15T16:18:01.092009Z'
+publishDate: '2020-10-15T16:27:08.850823Z'
 authors:
 - Maor Bar-Peled
 - Cara L Griffith
