@@ -2,7 +2,6 @@
 title: Cell Envelope Integrity and Capsule Characterization of Rhodotorula mucilaginosa
   Strains from Clinical and Environmental Sources
 date: '2019-06-01'
-draft: true
 publishDate: '2020-10-15T16:27:08.613556Z'
 authors:
 - Johnathan Yockey

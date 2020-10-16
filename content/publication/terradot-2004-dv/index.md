@@ -3,7 +3,6 @@ title: 'Biochemical characterization of protein complexes from the Helicobacter 
   protein interaction map: strategies for complex formation and evidence for novel
   interactions within type IV secretion systems'
 date: '2004-08-01'
-draft: true
 publishDate: '2020-10-15T16:27:09.668885Z'
 authors:
 - Laurent Terradot

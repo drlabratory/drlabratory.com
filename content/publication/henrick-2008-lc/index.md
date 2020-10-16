@@ -1,7 +1,6 @@
 ---
 title: Remediation of the protein data bank archive
 date: '2008-01-01'
-draft: true
 publishDate: '2020-10-15T16:27:09.585339Z'
 authors:
 - Kim Henrick

@@ -1,7 +1,6 @@
 ---
 title: The role of host gender in the pathogenesis of Cryptococcus neoformans infections
 date: '2013-05-01'
-draft: true
 publishDate: '2020-10-15T16:27:08.533427Z'
 authors:
 - Erin E McClelland

@@ -2,7 +2,6 @@
 title: An efficiently regulated promoter system for Cryptococcus neoformans utilizing
   the CTR4 promoter
 date: '2004-08-01'
-draft: true
 publishDate: '2020-10-15T16:27:08.778713Z'
 authors:
 - Jeramia J Ory
