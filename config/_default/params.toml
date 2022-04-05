@@ -97,7 +97,7 @@ address = {street = "660 S. Euclid Avenue", city = "St. Louis", region = "MO", p
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.6361764", longitude = "-90.2620984"}
+coordinates = {latitude = "38.636176", longitude = "-90.262098"}
 
 # Directions for visitors to locate you.
 directions = ""
