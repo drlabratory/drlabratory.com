@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4588 Parkview Place", city = "St. Louis", region = "MO", postcode = "63110", country = "United States", country_code = "US"}
+address = {street = "660 S. Euclid Avenue", city = "St. Louis", region = "MO", postcode = "63110", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.637102", longitude = "-90.261442"}
+coordinates = {latitude = "38.6361764", longitude = "-90.2620984"}
 
 # Directions for visitors to locate you.
 directions = ""
