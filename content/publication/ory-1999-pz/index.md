@@ -25,10 +25,5 @@ abstract: The fluorescent probe anilinonaphthalene-8-sulfonate binds to adipocyt
   in the bound state.
 featured: false
 publication: '*Biophys. J.*'
-tags:
-- '"Anilino Naphthalenesulfonates; Animals; Biophysical Phenomena; Biophysics; Carrier
-  Proteins; Fatty Acid-Binding Proteins; Fatty Acids; Fluorescent Dyes; Kinetics;
-  Ligands; Mice; Myelin P2 Protein; Neoplasm Proteins; Nerve Tissue Proteins; Protein
-  Conformation; Static Electricity; Thermodynamics"'
 ---
 
