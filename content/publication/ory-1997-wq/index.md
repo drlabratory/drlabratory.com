@@ -53,11 +53,5 @@ abstract: A number of crystallographic studies of the adipocyte lipid-binding pr
   a single equilibrium event.
 featured: false
 publication: '*J. Biol. Chem.*'
-tags:
-- '"Anilino Naphthalenesulfonates; Animals; Binding Sites; Carrier Proteins; Crystallography-
-  X-Ray; Fatty Acid-Binding Proteins; Fatty Acids; Fluorescent Dyes; Hydrogen-Ion
-  Concentration; Mice; Models- Molecular; Molecular Sequence Data; Mutagenesis- Site-Directed;
-  Myelin P2 Protein; Neoplasm Proteins; Nerve Tissue Proteins; Oleic Acid; Protein
-  Conformation; Protein Structure- Secondary; Static Electricity"'
 ---
 
