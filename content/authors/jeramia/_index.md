@@ -10,23 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Biochemistry
+role: DEI Education Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Health Sciences and Pharmacy in St. Louis
-  url: "https://www.uhsp.edu"
+- name: Washington University School of Medicine
+  url: "https://diversity.wustl.edu"
 - name: NCCJ St. Louis
   url: "https://www.nccjstl.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on how fungi deal with toxic levels of metal in soil.
+bio: I am interested in addressing how systemic oppression impacts health.
 
 interests:
-- Fungi
-- Bioinformatics / Genomics
-- Data Analytics
 - Social Justice / Anti-Racism
+- Data Analytics
+- Bioinformatics / Genomics
+
+
 
 education:
   courses:
@@ -71,6 +72,6 @@ email: ""
 # - Visitors
 ---
 
-Jeramia Ory is an Associate Professor of Biochemistry at the University of Health Sciences and Pharmacy in St. Louis. He teaches Molecular Biology and Genetics in the PharmD program and Genetics in the School of Arts and Sciences. His research interests include the role of metal ions in fungal pathogenesis, fungal response to high levels of metal in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
+Jeramia Ory is a DEI Education Specialist in the Office of Diversity, Equity, and Inclusion at the Washington University School of Medicine in St. Louis. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program), he develops and facilitates multiple identity experiences for academic and non-profit organizations. In addition, as a former science faculty member, he brings a unique academic teaching and research lens to his practice of equity and inclusion facilitation. He is committed to teaching, learning, and dismantling all forms of systemic oppression in our society.
 
-In addition to his teaching and research duties, Dr. Ory is also the Undergraduate Health Professions Advisor, where he advises students interested in various health care fields. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program) he helps develop and co-facilitate experiences for the Social Awareness and Cultural Sensitivity PharmD co-curriculum. He is committed to teaching, learning and dismantling all forms of systemic oppresion in our society.
+Before transitioning to work in social justice and inequality, he taught at the undergraduate and professional levels for over fifteen years. His classes include Biochemistry, Genetics, Molecular Biology, and Introduction to Data Science. His scientific research interests include the role of metal ions in fungal pathogenesis, fungal response to high metal levels in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
