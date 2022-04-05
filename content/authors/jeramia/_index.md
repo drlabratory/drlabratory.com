@@ -15,7 +15,7 @@ role: DEI Education Specialist
 # Organizations/Affiliations
 organizations:
 - name: Washington University School of Medicine
-  url: "https://diversity.wustl.edu"
+  url: "https://diversity.med.wustl.edu"
 - name: NCCJ St. Louis
   url: "https://www.nccjstl.org/"
 
