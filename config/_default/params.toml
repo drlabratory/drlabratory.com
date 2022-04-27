@@ -114,6 +114,7 @@ appointment_url = "https://calendly.com/jeramia-ory/"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/drlabratory"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@drlabratory"},
+  {icon = "mastodon", icon_pack = "fab", name = "Mastodon Me", link = "https://mastodon.social/@DrLabRatOry"},
   ]
 
 ############################
