@@ -32,21 +32,38 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
+  title = "Assistant Professor of Biochemistry and Molecular Biophysics"
+  company = "Washington University School of Medicine"
+  company_url = "https://biochem.wustl.edu/"
+  location = "St. Louis, MO"
+  date_start = "2023-12-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "DEI Education Specialist"
+  company = "Washington University School of Medicine"
+  company_url = "https://diversity.med.wustl.edu/"
+  location = "St. Louis, MO"
+  date_start = "2022-02-01"
+  date_end = ""
+  description = """
+* Scripted and produced the video “Why Are We Starting With Race?” in collaboration with the Instructional Design Studio in support of the Understanding Systemic Racism curriculum.
+* Automated retrieving, filtering, and analyzing all employee compliance data from Learn@Work.
+* Delivered Diversity 1.0 - 4.0 to faculty and staff at the School of Medicine.
+* Authored facilitation guides and SOPs to enable consistent training experiences across facilitators.
+"""
+
+[[experience]]
   title = "Associate Professor of Biochemistry"
   company = "University of Health Sciences and Pharmacy in St. Louis"
   company_url = "https://www.uhsp.edu/"
   location = "St. Louis, MO"
   date_start = "2015-08-17"
-  date_end = ""
+  date_end = "2022-02-01"
   description = """
 * Research advisor, junior through Professional Year 4 students. 
-* Classes taught  
-  
-  - Biochemistry
-  - Molecular Biology and Genetics (PharmD Program)
-  - Genetics
-  - Introduction to Data Science
-  - Introductory Chemistry
+* Classes taught: Biochemistry, Molecular Biology and Genetics (PharmD Program), Introduction to Data Science, Introductory Chemistry
 * Undergraduate Health Professions Advisor
 * Chair, Undergraduate Admissions and Progressions
 """
