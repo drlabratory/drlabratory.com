@@ -14,10 +14,12 @@ role: Assistant Professor, DEI Education Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Washington University School of Medicine, Department of Biochemistry & Molecular Biophysics
-  url: "[https://diversity.med.wustl.edu](https://biochem.wustl.edu/)"
 - name: Washington University School of Medicine
-  url: "https://diversity.med.wustl.edu, Office of Diversity, Equity, & Inclusion"
+  url: "https://medicine.wustl.edu"
+- name: Department of Biochemistry & Molecular Biophysics
+  url: "https://biochem.wustl.edu"
+- name: Office of Diversity, Equity, and Inclusion
+  url: "https://diversity.med.wustl.edu"
 - name: NCCJ St. Louis
   url: "https://www.nccjstl.org/"
 
