@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: DEI Education Specialist
+role: Assistant Professor, DEI Education Specialist
 
 # Organizations/Affiliations
 organizations:
+- name: Washington University School of Medicine, Department of Biochemistry & Molecular Biophysics
+  url: "[https://diversity.med.wustl.edu](https://biochem.wustl.edu/)"
 - name: Washington University School of Medicine
-  url: "https://diversity.med.wustl.edu"
+  url: "https://diversity.med.wustl.edu, Office of Diversity, Equity, & Inclusion"
 - name: NCCJ St. Louis
   url: "https://www.nccjstl.org/"
 
@@ -72,6 +74,6 @@ email: ""
 # - Visitors
 ---
 
-Jeramia Ory is a DEI Education Specialist in the Office of Diversity, Equity, and Inclusion at the Washington University School of Medicine in St. Louis. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program), he develops and facilitates multiple identity experiences for academic and non-profit organizations. In addition, as a former science faculty member, he brings a unique academic teaching and research lens to his practice of equity and inclusion facilitation. He is committed to teaching, learning, and dismantling all forms of systemic oppression in our society.
+Jeramia Ory is an Assistant Professor in the Department of Biochemistry and Molecular Biophysics and a DEI Education Specialist in the Office of Diversity, Equity, and Inclusion at the Washington University School of Medicine in St. Louis. As a [Certified Diversity Facilitrainer](https://www.nccjstl.org/facilitrainer-certification-program), he develops and facilitates multiple identity experiences for academic and non-profit organizations. In addition, as a science faculty member, he brings a unique academic teaching and research lens to his practice of equity and inclusion facilitation. He is committed to teaching, learning, and dismantling all forms of systemic oppression in our society.
 
-Before transitioning to work in social justice and inequality, he taught at the undergraduate and professional levels for over fifteen years. His classes include Biochemistry, Genetics, Molecular Biology, and Introduction to Data Science. His scientific research interests include the role of metal ions in fungal pathogenesis, fungal response to high metal levels in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
+Before moving to WashU, he taught at the undergraduate and professional levels for over fifteen years. His classes include Biochemistry, Genetics, Molecular Biology, and Introduction to Data Science. His scientific research interests include the role of metal ions in fungal pathogenesis, fungal response to high metal levels in the soil, and bioinformatic characterization of mitochondrial heteroplasmy.
