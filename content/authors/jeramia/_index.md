@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, DEI Education Specialist
+role: Assistant Professor, Education Specialist
 
 # Organizations/Affiliations
 organizations:
@@ -20,18 +20,15 @@ organizations:
   url: "https://biochem.wustl.edu"
 - name: Office of Diversity, Equity, and Inclusion
   url: "https://diversity.med.wustl.edu"
-- name: NCCJ St. Louis
-  url: "https://www.nccjstl.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in addressing how systemic oppression impacts health.
 
 interests:
+- Teaching and Professional Development
 - Social Justice / Anti-Racism
 - Data Analytics
 - Bioinformatics / Genomics
-
-
 
 education:
   courses:
@@ -50,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: fa-bluesky
   icon_pack: fa-brands
-  link: https://bsky.app/profile/drlabratory.bsky.social
+  link: https://bsky.app/profile/drlabratory.com
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/jeramia
